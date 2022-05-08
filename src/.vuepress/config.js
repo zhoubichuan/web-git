@@ -1,6 +1,6 @@
 module.exports = {
   // 基础配置
-  base: '/Web-Tools/', // 部署站点的基础路径
+  base: '/web-tools/', // 部署站点的基础路径
   description: 'Tools相关知识点',
   locales: {
     // 默认标题
@@ -58,23 +58,25 @@ module.exports = {
         editLinkText: '在github上编辑此页',
         lastUpdated: '上次更新', // 获取每个文件最后一次 git 提交的时间戳
         nav: [{
-          text: '基础知识',
-          items: [{
-            text: '1.开发工具',
-            link: '/base/build/1.index'
-          },
-          {
-            text: '2.版本管理',
-            link: '/base/practice/1.Tools',
-          }
+          text: '开发工具',
+          items: [
+            {
+              text: '1.开发工具',
+              link: '/base/build/1.index'
+            },
+            {
+              text: '2.版本管理',
+              link: '/base/practice/1.Tools',
+            }
           ]
         },
         {
-          text: '高级知识',
-          items: [{
-            text: '1.Tools精讲',
-            link: '/senior/use/1.recursionAndDynamics'
-          },
+          text: '网络相关',
+          items: [
+            {
+              text: '1.Tools精讲',
+              link: '/senior/use/1.recursionAndDynamics'
+            },
           ]
         }
         ],
@@ -96,25 +98,25 @@ module.exports = {
             '15.api'
           ],
           '/base/practice/': [
-            '1.Tools', 
-            '2.Jenkins', 
-            '3.gitlab', 
-            'vscode', 
-            'test', 
-            'prem', 
+            '1.Tools',
+            '2.Jenkins',
+            '3.gitlab',
+            'vscode',
+            'test',
+            'prem',
             'i18n'
           ],
           '/senior/use/': [
-            '1.recursionAndDynamics', 
-            '2.extend', 
-            '3.componentCommunication', 
-            '4.render', 
-            '5.api', 
-            '6.form', 
-            '7.checkBox', 
-            '8.active', 
-            '9.alert', 
-            '10.table', 
+            '1.recursionAndDynamics',
+            '2.extend',
+            '3.componentCommunication',
+            '4.render',
+            '5.api',
+            '6.form',
+            '7.checkBox',
+            '8.active',
+            '9.alert',
+            '10.table',
             '11.tree'
           ],
         }
