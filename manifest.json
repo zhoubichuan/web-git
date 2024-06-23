@@ -1,10 +1,10 @@
 {
-    "name": "web-version",
-    "short_name": "web-version",
+    "name": "web-git",
+    "short_name": "web-git",
     "start_url": "index.html",
     "display": "standalone",
     "background_color": "#2196f3",
-    "description": "web-version主页",
+    "description": "web-git主页",
     "theme_color": "blue",
     "icons": [
       {
