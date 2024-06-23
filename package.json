@@ -1,10 +1,10 @@
 {
-  "name": "web-version",
+  "name": "web-git",
   "version": "1.0.3",
   "description": "Version学习笔记",
   "main": "index.js",
   "author": "zhoubichaun@icloud.com",
-  "hommepage": "https://github.com/zhoubichuan/web-version/",
+  "hommepage": "https://github.com/zhoubichuan/web-git/",
   "private": false,
   "license": "MIT",
   "scripts": {

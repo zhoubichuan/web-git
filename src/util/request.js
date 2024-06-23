@@ -3,9 +3,9 @@ import { Message, MessageBox } from "element-ui";
 import { getToken } from "@/util/auth";
 
 // 创建axios实例
-let baseURL = "/web-version/";
+let baseURL = "/web-git/";
 try {
-  baseURL = process ? process.env?.BASE_API : "/web-version/";
+  baseURL = process ? process.env?.BASE_API : "/web-git/";
 } catch (e) {}
 const service = axios.create({
   baseURL,
