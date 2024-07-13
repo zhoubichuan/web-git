@@ -3,11 +3,11 @@ const nav = [{
   items: [
     {
       text: '1.svn基础',
-      link: '/base/build/1.index'
+      link: '/base/svn/1.index'
     },
     {
       text: '2.git基础',
-      link: '/base/practice/1.Tools',
+      link: '/base/git/1.Tools',
     }
   ]
 },

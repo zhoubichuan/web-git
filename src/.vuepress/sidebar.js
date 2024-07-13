@@ -1,5 +1,5 @@
 const sidebar = {
-  '/base/build/': [
+  '/base/svn/': [
     '1.index',
     '2.service',
     '3.cdn',
@@ -15,7 +15,7 @@ const sidebar = {
     '14.data',
     '15.api'
   ],
-  '/base/practice/': [
+  '/base/git/': [
     '1.Tools',
     '2.Jenkins',
     '3.gitlab',
