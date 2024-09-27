@@ -1,5 +1,27 @@
 const sidebar = {
-  '/base/svn/': [
+  '/base/git/': [
+    '1.index',
+    '2.Jenkins',
+    '3.gitlab',
+    'vscode',
+    'test',
+    'prem',
+    'i18n'
+  ],
+  '/base/gitlab/': [
+    '1.index',
+    '2.extend',
+    '3.componentCommunication',
+    '4.render',
+    '5.api',
+    '6.form',
+    '7.checkBox',
+    '8.active',
+    '9.alert',
+    '10.table',
+    '11.tree'
+  ],
+  '/senior/svn/': [
     '1.index',
     '2.service',
     '3.cdn',
@@ -14,28 +36,6 @@ const sidebar = {
     '13.com',
     '14.data',
     '15.api'
-  ],
-  '/base/git/': [
-    '1.Tools',
-    '2.Jenkins',
-    '3.gitlab',
-    'vscode',
-    'test',
-    'prem',
-    'i18n'
-  ],
-  '/senior/use/': [
-    '1.recursionAndDynamics',
-    '2.extend',
-    '3.componentCommunication',
-    '4.render',
-    '5.api',
-    '6.form',
-    '7.checkBox',
-    '8.active',
-    '9.alert',
-    '10.table',
-    '11.tree'
-  ],
+  ]
 };
 module.exports = sidebar;

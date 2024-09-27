@@ -3,7 +3,7 @@ lang: zh-CN
 home: true
 heroImage: "/home.png"
 actionText: 先睹为快 →
-actionLink: /base/build/1.config
+actionLink: /base/git/1.index.html
 pageClass: page_index
 footer: Tools相关知识
 meta:
@@ -16,20 +16,12 @@ meta:
         <div id="large-header" class="large-header"></div>
             <div class="features">
         <div class="feature">
-          <h2>开发工具</h2> 
-          <p>掌握vscode</p>
+          <h2>git版本管理</h2> 
+          <p>掌握git项目命令基础、相关工具的使用</p>
         </div>
         <div class="feature">
-          <h2>版本管理工具</h2> 
-          <p>掌握git、svn</p>
-        </div>
-        <div class="feature">
-          <h2>项目管理工具</h2> 
-          <p>组件设计思路，组件编写工作流搭建 从0编写复杂组件之异步级联组件 单元测试编写及组件的发布</p>
-        </div>
-        <div class="feature">
-          <h2>工作汇报相关</h2> 
-          <p>掌握ppt、excel、world</p>
+          <h2>svn版本管理</h2> 
+          <p>掌握svn项目命令基础、相关工具的使用</p>
         </div>
       </div>
     </div>

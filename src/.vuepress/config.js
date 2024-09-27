@@ -4,7 +4,7 @@ const Webpack = require("webpack");
 const bodyParser = require("body-parser");
 
 module.exports = {
-  title: "Git学习笔记",
+  title: "git学习笔记",
   description: "风浪没平息 我宣告奔跑的意义",
   base: "/web-git/", // 部署站点的基础路径
   port: 3009,
