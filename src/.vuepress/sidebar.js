@@ -1,12 +1,12 @@
 const sidebar = {
   '/base/git/': [
     '1.index',
-    '2.Jenkins',
-    '3.gitlab',
-    'vscode',
-    'test',
-    'prem',
-    'i18n'
+    '2.github',
+    '3.version',
+    '4.gitlens',
+    '5.code',
+    '6.branch',
+    '7.commit'
   ],
   '/base/gitlab/': [
     '1.index',
