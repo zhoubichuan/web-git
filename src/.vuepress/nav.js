@@ -1,14 +1,18 @@
 const nav = [
   {
-    text: 'git相关',
+    text: 'git基础',
     items: [
       {
-        text: '1.git基础',
+        text: '1.常用命令',
         link: '/base/git/1.index',
       },
+       {
+        text: '2.常用插件',
+        link: '/base/plugins/1.index'
+      },
       {
-        text: '2.gitlab',
-        link: '/base/gitlab/1.index'
+        text: '3.代码仓库',
+        link: '/base/warehouse/1.index'
       },
     ]
   },

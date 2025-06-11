@@ -8,11 +8,17 @@ const sidebar = {
     '6.branch',
     '7.commit'
   ],
-  '/base/gitlab/': [
+  '/base/plugins/': [
     '1.index',
-    '2.extend',
-    '3.componentCommunication',
-    '4.render',
+    '2.gitLens',
+    '3.history',
+    '4.graph',
+  ],
+  '/base/warehouse/': [
+    '1.index',
+    '2.gitlab',
+    '3.github',
+    '4.gitee',
     '5.api',
     '6.form',
     '7.checkBox',
